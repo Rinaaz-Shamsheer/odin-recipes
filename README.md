@@ -1,3 +1,2 @@
 # odin-recipes
-My first basic html project
-I'm using this to learn git commands
+My first basic html project. I'm using this mainly to learn git commands, and also to refresh my html skills. I used three of my favourite chocolate recipes for this  project. Two recipes by Savour Easy, and one by BakeLikeAPro.
